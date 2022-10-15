@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordi2233
 - 👀 I’m interested in DevOps, Linux Softwear Enginiering and Automatization
-- 🌱 I’m currently learning Python and Docker
+- 🌱 I’m currently learning Python, Docker and Bash
 - 📫 Contact with me bazdej@gmail.com
 - 👀 Visit my portfolio page https://blazej-app.vercel.app/
 
