@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordi2233
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in DevOps, Linux softwear enginiering and automatization
+- 🌱 I’m currently learning Python and Docker
 - 📫 Contact with me bazdej@gmail.com
 - 👀 Visit my portfolio page https://blazej-app.vercel.app/
 
