@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordi2233
-- 👀 I’m interested in DevOps, Linux Softwear Enginiering and Automatization
-- 🌱 I’m currently learning Python, Docker and Bash
+- 👀 I’m interested in DevOps, Linux Softwear Enginiering and Automatization.
+- 🌱 My tech-stack: JavaScript, React, Node.js, Python, Bash, Docker, Cmake, Jenkins.
 - 📫 Contact with me bazdej@gmail.com
 - 👀 Visit my portfolio page https://blazej-app.vercel.app/
 
